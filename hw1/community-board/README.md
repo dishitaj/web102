@@ -2,46 +2,34 @@
 
 Submitted by: **Dishita Jhawar**
 
-This web app: **insert description**
+This web app is a basic resource hub for people experiencing homelessness in Bay Area, California to practice building web applications with React. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Added a hover functionality for the cards to increase user engagement with the site. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+It was a great foundational review of React, JSX, HTML, CSS and a good opportunity to learn how props and components work. I was stuck when trying to display the cards in a grid format because my CSS changes weren't showing up. Once I renamed the classes correctly I resolved my issue.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Dishita Jhawar s]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
