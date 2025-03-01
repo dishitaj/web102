@@ -18,10 +18,10 @@ The following **additional** features are implemented:
 * [x] Added a hover functionality for the cards to increase user engagement with the site. 
 
 ## Video Walkthrough
+![Video Walkthrough](./sitedemo.gif)
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/1GXAl1u' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [Kap](https://getkap.co/) 
 
 ## Notes
