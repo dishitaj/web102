@@ -2,7 +2,7 @@
 
 Submitted by: **Dishita Jhawar**
 
-This web app: **insert description**
+This web app: **This website accesses the The Movie DB API to help users pick a movie. They can ban certain categories based on language of the movie, date it was released, and its popularity score. They can see the title, description, and poster of each movie.**
 
 Time spent: **5** hours spent in total
 
