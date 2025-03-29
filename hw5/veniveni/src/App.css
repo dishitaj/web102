@@ -1,0 +1,48 @@
+.homepage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.centerPage {
+  flex: 3;
+  text-align: center;
+}
+
+.sidePage {
+  flex: 1;
+  text-align: left;
+  padding-left: 20px;
+  border-left: 2px solid #ccc;
+}
+
+.sidePage h2 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.bannedButtons {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+  font-size: 16px;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bannedButtons:hover {
+  background-color: #cc0000;
+}
+
+.moviePoster {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 15px;
+}
