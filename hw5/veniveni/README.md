@@ -34,9 +34,9 @@ The following **optional** features are implemented:
 - [X] Multiple types of attributes are clickable and can be added to the ban list
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
-<img src="hw5/veniveni/Demo.gif" width="600" alt="Video Walkthrough"/>
+![Video Walkthrough](./Demo.gif)
+
 GIF created with [Kap](https://getkap.co/) for macOS.  
 
 ## Notes
