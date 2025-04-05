@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Video Walkthrough](./Demo.gif)
+![Video Walkthrough](./Demo1.gif)
 
 GIF created with [Kap](https://getkap.co/) for macOS.  
 <!-- Replace this with whatever GIF tool you used! -->
