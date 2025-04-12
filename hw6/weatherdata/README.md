@@ -2,7 +2,7 @@
 
 Submitted by: **Dishita Jhawar**
 
-This web app: ***is a data dashboard that displays data from the OpenMeteo API of 10 major cities. It provides the mean, min, and max temperature in those cities as well. ***
+This web app: is a data dashboard that displays data from the OpenMeteo API of 10 major cities. It provides the mean, min, and max temperature in those cities as well. 
 
 Time spent: **1** hours spent in total
 
@@ -32,7 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Kap](https://getkap.co/) for macOS.  
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
