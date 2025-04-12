@@ -1,8 +1,8 @@
 # Web Development Project 7 *Weather Dashboard*
 
-ubmitted by: **Dishita Jhawar**
+Submitted by: **Dishita Jhawar**
 
-This web app: *** is a data dashboard that displays data from the OpenMeteo API of 10 major cities. It provides the details of each location including time range, cloud cover, humidity, and hourly temperatures available***
+This web app: is a data dashboard that displays data from the OpenMeteo API of 10 major cities. It provides the details of each location including time range, cloud cover, humidity, and hourly temperatures available
 
 Time spent: **1** hours spent in total
 
