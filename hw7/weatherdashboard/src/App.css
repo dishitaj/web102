@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.stats-table {
+  margin: 20px 0;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+input {
+  padding: 10px;
+  margin: 20px 0;
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+nav {
+  position: fixed; 
+  top: 0; 
+  right: 0; 
+}
+
+.home-link 
+{
+  border:1px dotted white;
+  background:#1d1f1d;
+  width:75px;
+}
